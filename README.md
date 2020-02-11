@@ -2,7 +2,7 @@
 # NookBot
 This bot is designed to manage the UAF Computer Science Discord server (primarily by adding people to class-specific roles).
 
-**I've since graduated, and am no longer maintaining this. Future development will occur on [this fork](https://github.com/computer-science-discord/nookbot).**
+**I've since graduated, and am no longer maintaining this. Future development will occur on [this fork](https://github.com/uaf-cs/nookbot).**
 
 ## Running
 (Assuming you have a working Ruby installation already)
